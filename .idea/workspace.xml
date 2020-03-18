@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b0c3331-4b2d-4236-b57a-1470e62e0b74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/api_basic/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_basic/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_basic/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestFrameworkCourse/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestFrameworkCourse/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_basic/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_basic/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,5 +57,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584523776569" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RestFrameworkCourse/urls.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
